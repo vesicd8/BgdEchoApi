@@ -1,0 +1,15 @@
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\BgdEcho.Application.deps.json
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\BgdEcho.Application.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\ref\BgdEcho.Application.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\BgdEcho.Application.pdb
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.AssemblyInfoInputs.cache
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.AssemblyInfo.cs
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\ref\BgdEcho.Application.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.pdb
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\BgdEcho.Domain.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\bin\Debug\net5.0\BgdEcho.Domain.pdb
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.csproj.CopyComplete
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Application\obj\Debug\net5.0\BgdEcho.Application.csproj.AssemblyReference.cache

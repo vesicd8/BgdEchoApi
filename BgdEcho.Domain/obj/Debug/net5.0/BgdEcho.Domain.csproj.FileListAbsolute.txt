@@ -1,0 +1,12 @@
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\bin\Debug\net5.0\BgdEcho.Domain.deps.json
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\bin\Debug\net5.0\BgdEcho.Domain.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\bin\Debug\net5.0\ref\BgdEcho.Domain.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\bin\Debug\net5.0\BgdEcho.Domain.pdb
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.AssemblyInfoInputs.cache
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.AssemblyInfo.cs
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\ref\BgdEcho.Domain.dll
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.pdb
+C:\Users\Dusan\Desktop\c#\BgdEcho\BgdEcho.Domain\obj\Debug\net5.0\BgdEcho.Domain.csproj.AssemblyReference.cache
